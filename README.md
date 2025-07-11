@@ -6,4 +6,6 @@ Pyhton | SQL | POSTMAN | JIRA | SolidWorks | 3D Printing
 <img align="right" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-[![FernandoViv98's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=FernandoViv98&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/FernandoViv98?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=FernandoViv98&layout=compact&langs_count=6&theme=blue-green)](https://github.com/FernandoViv98)
+[![FernandoViv98's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoViv98&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/FernandoViv98?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoViv98&layout=compact&langs_count=6&theme=blue-green)](https://github.com/FernandoViv98)¿
